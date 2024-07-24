@@ -1,3 +1,0 @@
-# clydev
-# Clydev
-"# Clydevmain" 
